@@ -1,1 +1,1 @@
-This site is live on: https://musicplayerbyshivam.netlify.app/
+Check it out: [Click here](https://musicplayerbyshivam.netlify.app/)
